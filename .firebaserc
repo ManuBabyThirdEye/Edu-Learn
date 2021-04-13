@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "edulearn-5c2c4": {
+      "hosting": {
+        "EduLearn": [
+          "edulearn-5c2c4"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "edulearn-5c2c4"
+  }
+}
